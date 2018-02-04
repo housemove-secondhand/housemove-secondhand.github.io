@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Luggage]]></title>
+    <url>%2F2018%2F02%2F04%2FLuggage%2F</url>
+    <content type="text"><![CDATA[Self-pickupAddress： Hung Hom Harbour Horizon SuitesWhatsapp: 85259358320Wechat: lipingnju9090 Lamborghini luggage(90% new, 20 inches)deposit: 500HKD30HKD/Day Samsonite luggage(90% new, 24 inches)deposit: 500HKD40HKD/Day 28 inches luggagedeposit: 200HKD30HKD/Day 32 inches luggagedeposit: 100HKD20HKD/Day]]></content>
+      <categories>
+        <category>luggage</category>
+      </categories>
+      <tags>
+        <tag>only rent</tag>
+        <tag>luggage</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Sports]]></title>
     <url>%2F2018%2F02%2F04%2FSports%2F</url>
     <content type="text"><![CDATA[Self-pickupAddress： Hung Hom Harbour Horizon SuitesWhatsapp: 85259358320Wechat: lipingnju9090 Yogart Mat Golf club]]></content>
@@ -24,13 +36,13 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[tags]]></title>
-    <url>%2Ftags%2Findex.html</url>
+    <title><![CDATA[categories]]></title>
+    <url>%2Fcategories%2Findex.html</url>
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[categories]]></title>
-    <url>%2Fcategories%2Findex.html</url>
+    <title><![CDATA[tags]]></title>
+    <url>%2Ftags%2Findex.html</url>
     <content type="text"></content>
   </entry>
 </search>
