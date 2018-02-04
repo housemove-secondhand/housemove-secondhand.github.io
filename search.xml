@@ -1,25 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Lamps]]></title>
-    <url>%2F2018%2F02%2F04%2FLamps%2F</url>
-    <content type="text"><![CDATA[]]></content>
-      <categories>
-        <category>lamps</category>
-      </categories>
-      <tags>
-        <tag>lamps</tag>
-        <tag>&lt; 100</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[categories]]></title>
-    <url>%2Fcategories%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[tags]]></title>
-    <url>%2Ftags%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Sports]]></title>
+      <url>/2018/02/04/Sports/</url>
+      <content type="html"><![CDATA[<p><img src="/images/Yogart Mat.jpg" alt="Yogart Mat"> <img src="/images/golf.jpg" alt="Golf club"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> sports </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> sports </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Lamps]]></title>
+      <url>/2018/02/04/Lamps/</url>
+      <content type="html"><![CDATA[<p><img src="/images/lamp_1.jpg" alt="90%new">  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> lamps </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> lamps </tag>
+            
+            <tag> &lt; 100 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[categories]]></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
 </search>
