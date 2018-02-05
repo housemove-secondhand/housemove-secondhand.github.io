@@ -1,95 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[Luggage]]></title>
-      <url>/2018/02/04/Luggage/</url>
-      <content type="html"><![CDATA[<p>Self-pickup<br>Address： Hung Hom Harbour Horizon Suites<br>Whatsapp: 85259358320<br>Wechat: lipingnju9090</p>
-<p>Lamborghini luggage(90% new, 20 inches)<br>deposit: 500HKD<br>30HKD/Day<br><img src="/images/20 inches.jpg" alt="20 inches">  </p>
-<p>Samsonite luggage(90% new, 24 inches)<br>deposit: 500HKD<br>40HKD/Day<br><img src="/images/24 inches.jpg" alt="24 inches"> </p>
-<p>28 inches luggage<br>deposit: 200HKD<br>30HKD/Day<br><img src="/images/28 inches.jpg" alt="28 inches"> </p>
-<p>32 inches luggage<br>deposit: 100HKD<br>20HKD/Day<br><img src="/images/32 inches.jpg" alt="32 inches"> </p>
-]]></content>
-      
-        <categories>
-            
-            <category> luggage </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> only rent </tag>
-            
-            <tag> luggage </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Sports]]></title>
-      <url>/2018/02/04/Sports/</url>
-      <content type="html"><![CDATA[<p>Self-pickup<br>Address： Hung Hom Harbour Horizon Suites<br>Whatsapp: 85259358320<br>Wechat: lipingnju9090</p>
-<p>Yoga Mat<br><img src="/images/Yoga Mat.jpg" alt="Yogart Mat"></p>
-<p>Golf club<br><img src="/images/golf.jpg" alt="Golf club"></p>
-]]></content>
-      
-        <categories>
-            
-            <category> sports </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> sports </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Lamps]]></title>
-      <url>/2018/02/04/Lamps/</url>
-      <content type="html"><![CDATA[<p>Self-pickup<br>Address： Hung Hom Harbour Horizon Suites<br>Whatsapp: 85259358320<br>Wechat: lipingnju9090</p>
-<p>Reading lamps<br><img src="/images/lamp_1.jpg" alt="90%new">  </p>
-]]></content>
-      
-        <categories>
-            
-            <category> lamps </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> lamps </tag>
-            
-            <tag> &lt; 100 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
-    
-    <entry>
-      <title><![CDATA[tags]]></title>
-      <url>/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[categories]]></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-  
+<search>
+  <entry>
+    <title><![CDATA[Luggage]]></title>
+    <url>%2F2018%2F02%2F04%2FLuggage%2F</url>
+    <content type="text"><![CDATA[Self-pickupAddress： Hung Hom Harbour Horizon SuitesWhatsapp: 85259358320Wechat: lipingnju9090 Lamborghini luggage(90% new, 20 inches)deposit: 500HKD30HKD/Day Samsonite luggage(90% new, 24 inches)deposit: 500HKD40HKD/Day 28 inches luggagedeposit: 200HKD30HKD/Day 32 inches luggagedeposit: 100HKD20HKD/Day]]></content>
+      <categories>
+        <category>luggage</category>
+      </categories>
+      <tags>
+        <tag>only rent</tag>
+        <tag>luggage</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Sports]]></title>
+    <url>%2F2018%2F02%2F04%2FSports%2F</url>
+    <content type="text"><![CDATA[Self-pickupAddress： Hung Hom Harbour Horizon SuitesWhatsapp: 85259358320Wechat: lipingnju9090 Yoga Mat Golf club]]></content>
+      <categories>
+        <category>sports</category>
+      </categories>
+      <tags>
+        <tag>sports</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Lamps]]></title>
+    <url>%2F2018%2F02%2F04%2FLamps%2F</url>
+    <content type="text"><![CDATA[Self-pickupAddress： Hung Hom Harbour Horizon SuitesWhatsapp: 85259358320Wechat: lipingnju9090 Reading lamps]]></content>
+      <categories>
+        <category>lamps</category>
+      </categories>
+      <tags>
+        <tag>lamps</tag>
+        <tag>&lt; 100</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[categories]]></title>
+    <url>%2Fcategories%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[tags]]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
 </search>
